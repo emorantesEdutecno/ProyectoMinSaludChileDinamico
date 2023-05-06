@@ -148,7 +148,6 @@ let generarPagina = ()=>{
     // asociamos/anidamos/añadimos/anexamos la segunda fila al contenedor correspondiente
     contenedorSegundaFilaIzq.appendChild(filaInferiorContenedorSegundaFilaIzq);
 
-
     // asociamos/anidamos/añadimos/anexamos el container a la segunda principal fila de la izquierda
     segundaFilaIzqContenido.appendChild(contenedorSegundaFilaIzq);
     // asociamos/anidamos/añadimos/anexamos la segunda fila principal izquierda al elemento principal de la izquierda
